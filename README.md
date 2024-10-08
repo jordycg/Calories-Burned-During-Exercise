@@ -25,5 +25,6 @@ Enter your heart rate (bpm): 150
 Enter the elapsed time of exercise (mins): 30
 Enter your weight (pounds): 160
 Calories: 350.24 calories
+```
 
-I hope you find this useful. This project represents a step forward in my learning and I look forward to implementing this into larger scale projects in the future
+I hope you find this useful. This project represents a step forward in my learning and I look forward to implementing this into larger scale projects in the future.
