@@ -12,10 +12,7 @@ This is my first **public** Python project, and I'm really excited to share it! 
    ```bash
    git clone https://github.com/jordycg/Calories-Burned-During-Exercise.git
 
-2. Navigate to the project directory:
-   cd Calories-Burned-During-Exercise
-
-3. Run the Python file:
+2. Run the Python file:
    python main.py
 
 ## Example Usage
